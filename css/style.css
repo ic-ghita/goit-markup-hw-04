@@ -62,7 +62,6 @@ ul {
   display: flex;
   align-items: center;
   gap: 50px;
-  padding-right: 366px;
 }
 
 a.global-header {
@@ -71,8 +70,8 @@ a.global-header {
 
 .global-header .contact-data {
   display: flex;
-  padding-right: 215px;
   gap: 40px;
+  margin-left: 330px;
 }
 
 #envelope {
