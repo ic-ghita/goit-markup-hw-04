@@ -291,6 +291,19 @@ a.global-header {
   text-align: left;
 }
 
+.svg-container {
+  display: flex;
+  width: 270px;
+  height: 120px;
+  border-radius: 4px;
+  background: #f5f4fa;
+  margin-bottom: 30px;
+}
+
+.paragraph-svg {
+  padding: 25px 100px;
+}
+
 /* WHAT WE DO SECTION INDEX */
 
 .what-we-do {
